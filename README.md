@@ -8,7 +8,7 @@ To work on in the future:
   1. Add alpha-beta pruning to make decision making efficient.
   2. Add difficulty levels, making the game not completely unbeatable.
 
-I feel this project helps me demonstrate my fluency with Python3 as a language, however I am committed to the <a href = https://cs50.harvard.edu/ai/2020/honesty> CS50 Academic Honesty Policy</a>. In line with the policy, I cannot make this code available to a current or prospective student of CS50AI.
+I feel this project helps me demonstrate my fluency with Python3 as a language, however, I am committed to the <a href = https://cs50.harvard.edu/ai/2020/honesty> CS50 Academic Honesty Policy</a>. In line with the policy, I cannot make this code available to a current or prospective student of CS50AI.
 
 If you are here looking for a solution to the project, please keep in mind that _"searching for or soliciting outright solutions to assessments online or elsewhere"_ is also a violation of the academic honesty policy.
 
