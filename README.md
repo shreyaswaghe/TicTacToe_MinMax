@@ -3,7 +3,7 @@ This is a Python3/pygame based unbeatable TicTacToe game against an optimal AI-b
 
 The code may be found at this <a href = https://drive.google.com/drive/folders/1R3NGOnAun_WB28TAp2pJQW5dT2LpGip7?> Google Drive link </a>. This is a restricted folder, and as such, I will not be granting general access to it. Please contact me at ***swaghe(at)umass(dot)edu*** for access.
 
-This project developed as a part of the coursework for CS50AI - CS50's Introduction to Artificial Intelligence using Python from HarvardX/EdX. 
+This project was developed as a part of the coursework for CS50AI - CS50's Introduction to Artificial Intelligence using Python from HarvardX/EdX. 
 The agent uses a Minmax based searching algorithm to find the best possible play(s) for a given board setup.
 
 To work on in the future:
