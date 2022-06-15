@@ -24,4 +24,6 @@ To run:
  -> Use ```git clone https://github.com/shreyaswaghe/TicTacToe_MinMax``` in a desired folder.<br>
  -> Download straight from https://github.com/shreyaswaghe/TicTacToe_MinMax<br><br>
  
-2. Run ```
+2. Run ```./tttGame/tttGame``` when in the folder you cloned this repository in.
+
+The exec seems to take some time to boot up, once in a while.
