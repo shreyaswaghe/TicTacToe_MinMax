@@ -17,11 +17,11 @@ If you are here looking for a solution to the project, please keep in mind that 
 
 I can, however, provide you with an executable distribution for the game.
 
-**THE EXECUTABLE ONLY WORKS ON MACOS SINCE I USED PYINSTALLER ON MY DEVICE**
+**THE EXECUTABLE ONLY WORKS ON a x86_64 arch MACOS SINCE I USED PYINSTALLER ON MY DEVICE**
 
 To run:
-1. Download the package through git.
- -> Use ```git clone https://github.com/shreyaswaghe/TicTacToe_MinMax``` in a desired folder.
- -> Download straight from https://github.com/shreyaswaghe/TicTacToe_MinMax
+1. Download the package through git.<br>
+ -> Use ```git clone https://github.com/shreyaswaghe/TicTacToe_MinMax``` in a desired folder.<br>
+ -> Download straight from https://github.com/shreyaswaghe/TicTacToe_MinMax<br><br>
  
 2. Run ```
